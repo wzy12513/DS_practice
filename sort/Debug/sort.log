@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\69053\Desktop\DS_practice\sort\main.c(153,37): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  sort.vcxproj -> C:\Users\69053\Desktop\DS_practice\Debug\sort.exe
